@@ -1,0 +1,15 @@
+services:
+  spardown:
+    build: .
+    container_name: spardown
+
+    ports:
+      - "8000:8000"
+
+    env_file:
+      - .env
+
+    volumes:
+      - ./downloads:/app/downloads
+
+    restart: unless-stopped
