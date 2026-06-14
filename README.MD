@@ -1,37 +1,21 @@
-# 🎵 SPARDOWN
+#  SPARDOWN
 
 SPARDOWN is a FastAPI-powered music search and download service that allows users to search tracks, fetch YouTube sources, download audio, convert to MP3, and manage download history through a REST API.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔍 Music Search
-- 🎵 YouTube Audio Downloads
-- 🎧 Automatic MP3 Conversion
-- 🏷 Metadata Tagging
-- 📜 Download History
-- 📊 Usage Statistics
-- ⚡ Background Job Queue
-- 🔐 API Key Authentication
-- 🚦 Rate Limiting
-- 📁 Download Management
-
----
-
-## 📸 Screenshots
-
-### Search Endpoint
-
-![Search Screenshot](docs/screenshots/search.png)
-
-### Download Endpoint
-
-![Download Screenshot](docs/screenshots/download.png)
-
-### Downloaded MP3
-
-![MP3 Screenshot](docs/screenshots/mp3.png)
+-  Music Search
+-  YouTube Audio Downloads
+-  Automatic MP3 Conversion
+-  Metadata Tagging
+-  Download History
+-  Usage Statistics
+-  Background Job Queue
+-  API Key Authentication
+-  Rate Limiting
+-  Download Management
 
 ---
 
