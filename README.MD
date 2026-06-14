@@ -1,5 +1,7 @@
 #  SPARDOWN
 
+NOTE! THIS IS FULLY VIBE CODED! SORRY FOR THAT. I was trying to learn how api works and how to create one. errors and vulnerabilities is well expected. Thank you 
+
 SPARDOWN is a FastAPI-powered music search and download service that allows users to search tracks, fetch YouTube sources, download audio, convert to MP3, and manage download history through a REST API.
 
 ---
